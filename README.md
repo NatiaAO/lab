@@ -14,7 +14,7 @@
 
 https://moodle.tsu.ru/mod/assign/view.php?id=795900
 
-В коде используемы библиотеки
+Библиотеки:
 - requests
 - BeautifulSoup
 - time
