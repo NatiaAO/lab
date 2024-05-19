@@ -12,9 +12,9 @@
 
 https://moodle.tsu.ru/mod/assign/view.php?id=795900
 
-В коде используемы 
-requests
-BeautifulSoup
-time
-re
-threading
+В коде используемы библеотки
+- requests
+- BeautifulSoup
+- time
+- re
+- threading
