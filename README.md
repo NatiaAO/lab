@@ -11,3 +11,10 @@
 Возможно предоставление решения в виде публичной песочницы, например на http://repl.it.
 
 https://moodle.tsu.ru/mod/assign/view.php?id=795900
+
+В коде используемы 
+requests
+BeautifulSoup
+time
+re
+threading
